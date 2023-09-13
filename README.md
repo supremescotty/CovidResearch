@@ -1,2 +1,2 @@
 # CovidResearch
-For Math 597 Masters Project
+For CS 597 Masters Project
